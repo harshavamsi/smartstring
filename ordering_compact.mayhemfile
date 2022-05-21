@@ -1,0 +1,5 @@
+project: smartstring
+target: ordering_compact
+
+cmds:
+  - cmd: /ordering_compact
